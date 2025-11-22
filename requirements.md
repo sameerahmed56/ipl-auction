@@ -199,3 +199,9 @@ Note: All-Rounders can be used to satisfy either a Batsman or a Bowler requireme
 If a team cannot meet this composition from their roster (e.t., they only bought 4 bowlers), they are disqualified from the final scoring and cannot win, regardless of points.
 
 
+All pages must be device responsive
+Dark and Light Theme should be easily change able
+Follow the best React practices.
+Don't make silly mistakes.
+Do the best of you ability.
+Act like a senior software developer building the game for a multi national company.
